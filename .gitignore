@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.loop.pid
+logs/
+STOP
+
+# secrets - never commit
+.env
+.env.*
+*credentials*.json
+*secret*
+*.key
+*.pem
+data/
