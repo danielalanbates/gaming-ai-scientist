@@ -14,3 +14,5 @@ STOP
 *.pem
 data/
 engine/
+_archive/
+.venv/
