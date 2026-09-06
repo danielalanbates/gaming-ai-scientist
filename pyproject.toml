@@ -1,0 +1,13 @@
+[project]
+name = "gaming-ai-scientist"
+version = "0.1.0"
+description = "A never-stopping autonomous game-design research loop (AI-Scientist x BabyAGI, from scratch)."
+readme = "README.md"
+requires-python = ">=3.12"
+license = { file = "LICENSE" }
+authors = [{ name = "Bates LLC", email = "help@batesai.org" }]
+dependencies = []
+
+[build-system]
+requires = []
+build-backend = "hatchling.build"

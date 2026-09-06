@@ -13,3 +13,4 @@ STOP
 *.key
 *.pem
 data/
+engine/
